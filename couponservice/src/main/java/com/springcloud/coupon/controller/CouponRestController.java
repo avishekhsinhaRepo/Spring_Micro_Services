@@ -11,7 +11,7 @@ import com.springcloud.coupon.model.Coupon;
 import com.springcloud.coupon.repos.CouponRepo;
 
 @RestController
-@RequestMapping("/4")
+@RequestMapping("/couponapi")
 public class CouponRestController {
 
 	@Autowired
